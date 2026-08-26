@@ -1,0 +1,103 @@
+Welcome to the Data Analyzer and Transformer Program
+
+Main Menu:
+1. Input Data
+2. Display Data Summary (Built-in Functions)
+3. Calculate Factorial (Recursion)
+4. Filter Data by Threshold (Lambda Function)
+5. Sort Data
+6. Display Dataset Statistics (Return Multiple Values)
+7. Exit Program
+Please enter your choice:  1
+
+Enter data for a 1D array (separated by spaces):  34 12 56 78 43 21 90
+Data has been stored successfully!
+
+Main Menu:
+1. Input Data
+2. Display Data Summary (Built-in Functions)
+3. Calculate Factorial (Recursion)
+4. Filter Data by Threshold (Lambda Function)
+5. Sort Data
+6. Display Dataset Statistics (Return Multiple Values)
+7. Exit Program
+Please enter your choice:  2
+
+Data Summary:
+-Total_elements:7
+-Minimum_value:12
+-Maximum_value:90
+-Sum_of_all_values:334
+-Average_value:47.71
+
+Main Menu:
+1. Input Data
+2. Display Data Summary (Built-in Functions)
+3. Calculate Factorial (Recursion)
+4. Filter Data by Threshold (Lambda Function)
+5. Sort Data
+6. Display Dataset Statistics (Return Multiple Values)
+7. Exit Program
+Please enter your choice:  3
+
+Enter a number to calculate its factorial:  5
+Factorial of 5 is: 120
+
+Main Menu:
+1. Input Data
+2. Display Data Summary (Built-in Functions)
+3. Calculate Factorial (Recursion)
+4. Filter Data by Threshold (Lambda Function)
+5. Sort Data
+6. Display Dataset Statistics (Return Multiple Values)
+7. Exit Program
+Please enter your choice:  4
+
+Enter a threshold value to filter out data above this value:  50
+Filtered Data (values>=50):
+56, 78, 90
+
+Main Menu:
+1. Input Data
+2. Display Data Summary (Built-in Functions)
+3. Calculate Factorial (Recursion)
+4. Filter Data by Threshold (Lambda Function)
+5. Sort Data
+6. Display Dataset Statistics (Return Multiple Values)
+7. Exit Program
+Please enter your choice:  5
+
+Choose sorting option:
+1. Ascending Order
+2. Descending Order
+Enter your choice:  1
+Sorted Data (Ascending):
+[12, 21, 34, 43, 56, 78, 90]
+
+Main Menu:
+1. Input Data
+2. Display Data Summary (Built-in Functions)
+3. Calculate Factorial (Recursion)
+4. Filter Data by Threshold (Lambda Function)
+5. Sort Data
+6. Display Dataset Statistics (Return Multiple Values)
+7. Exit Program
+Please enter your choice:  6
+
+Dataset Statistics:
+- Minimum value: 12
+- Maximum value: 90
+- Sum of all values: 334
+- Average value: 47.71
+
+Main Menu:
+1. Input Data
+2. Display Data Summary (Built-in Functions)
+3. Calculate Factorial (Recursion)
+4. Filter Data by Threshold (Lambda Function)
+5. Sort Data
+6. Display Dataset Statistics (Return Multiple Values)
+7. Exit Program
+Please enter your choice:  7
+
+Thank you for using the Data Analyzer and Transformer Program. Goodbye!
